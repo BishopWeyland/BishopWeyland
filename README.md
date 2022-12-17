@@ -1,5 +1,5 @@
-Hi,
-my name is Håkon Willand.
+# Hi,
+## my name is Håkon Willand.
 
 I am currently studying front-end development at Noroff.
 I just finished my first year out of two.
