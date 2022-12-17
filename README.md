@@ -5,7 +5,7 @@ I just finished my first year out of two.
 
 I am 29 years old and I have been working in kindergarten for the past 9 years. In my spare time I like to paint.
 
-My experience so far:
+## My experience so far:
 - UX Design
 - HTML
 - CSS
