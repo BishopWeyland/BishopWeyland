@@ -12,9 +12,11 @@ I am 29 years old and I have been working in kindergarten for the past 9 years. 
 - Javascript
 - Wordpress
 
-[Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
+### Links:
 
-[LinkedIn](https://www.linkedin.com/in/h%C3%A5kon-willand-engebretsen-03148a229/)
+- [Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
+
+- [LinkedIn](https://www.linkedin.com/in/h%C3%A5kon-willand-engebretsen-03148a229/)
 
 
 <!--
