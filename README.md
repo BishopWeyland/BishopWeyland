@@ -1,5 +1,4 @@
-# Hi,
-## my name is Håkon Willand.
+# Hi, my name is Håkon Willand.
 
 I am currently studying front-end development at Noroff.
 I just finished my first year out of two.
@@ -13,8 +12,7 @@ CSS
 Javascript
 Wordpress
 
-Portfolio:
-https://elegant-gecko-c4d465.netlify.app/index.html
+[Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
 
 LinkedIn:
 https://www.linkedin.com/in/h%C3%A5kon-willand-engebretsen-03148a229/
