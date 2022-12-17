@@ -1,24 +1,4 @@
 # Hi, my name is Håkon Willand.
-
-I am currently studying front-end development at Noroff.
-I just finished my first year out of two.
-
-I am 29 years old and I have been working in kindergarten for the past 9 years. In my spare time I like to paint.
-
-## My experience so far:
-- UX Design
-- HTML
-- CSS
-- Javascript
-- Wordpress
-
-### Links:
-
-- [Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
-
-
-
-# Hi, my name is Håkon Willand.
 I am currently studying front-end development at Noroff. I just finished my first year out of two.<br><br>I am 29 years old and I have been working in kindergarten for the past 9 years. In my spare time I like to paint.
 
 
@@ -36,7 +16,7 @@ I am currently studying front-end development at Noroff. I just finished my firs
 
 - [Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
 
-#  GitHub Stats:
+###  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BishopWeyland&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BishopWeyland&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishopWeyland&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
