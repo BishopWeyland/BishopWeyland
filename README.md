@@ -1,5 +1,5 @@
 # Hi, my name is Håkon Willand.
-I am currently studying front-end development at Noroff. I just finished my first year out of two.<br><br>I am 29 years old and I have been working in kindergarten for the past 9 years. In my spare time I like to paint.
+I just finished my two year course of front-end development at Noroff. For the last decade i have been working in kindergarten and now I am looking for something else.
 
 
 ## Socials:
