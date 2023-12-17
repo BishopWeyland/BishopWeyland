@@ -19,7 +19,7 @@ I just finished my two year course of front-end development at Noroff. For the l
 
 # Links:
 
-- [Portfolio](https://elegant-gecko-c4d465.netlify.app/index.html)
+- [Portfolio](https://resilient-blancmange-e6620f.netlify.app/)
 
 ###  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BishopWeyland&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
